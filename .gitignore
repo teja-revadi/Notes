@@ -1,3 +1,14 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore files with .log extension
+*.log
+
+# Ignore files with .pyc extension (Python bytecode)
+*.pyc
+
+
+
 # Ignore .idea directory (used by JetBrains IDEs)
 .idea/
 
