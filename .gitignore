@@ -9,4 +9,5 @@
 
 # ignore pyc files
 **/__pycache__/
+
 *.py[cod]
